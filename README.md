@@ -6,12 +6,13 @@
 ## Objetivo:
 
 Criado um serviço responsavel por realizar uma operação de débito e crédito entre contas, recebendo atraves de um POST um JSON conforme o exemplo a abaixo 
-
+```json
 {
   "contaOrigem": "B27F745D-F088-4259-8B84-932F8257AF5D",
   "contaDestino": "B623272E-CD42-47C4-BFD0-B4AC2776E4B0",
   "valor": 1000.0
 }
+```
 
 Como resultado caso todos os dados sejam validos será retornado um 200 (Ok) por parte da API caso tenha algum erro seja de no Guid das contas ou valores a API devolverá um erro 400 com o erro correspondente
 
