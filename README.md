@@ -1,7 +1,7 @@
 # Account
 
 ## Análise de Código
-[![CodeFactor](https://www.codefactor.io/repository/github/cpsilva/chamadofacil/badge)](https://www.codefactor.io/repository/github/cpsilva/chamadofacil)
+[![CodeFactor](https://www.codefactor.io/repository/github/cpsilva/account/badge)](https://www.codefactor.io/repository/github/cpsilva/account)
 
 ## Objetivo:
 
@@ -17,7 +17,7 @@ Como resultado caso todos os dados sejam validos será retornado um 200 (Ok) por
 
 Para fins de teste já foi criado duas contas para realizar as operações de teste conforme abaixo o seed já é aplicado junto a aplicação.
 
-![](https://github.com/cpsilva/Account/blob/master/Screenshots/Seed.PNG)
+![](https://github.com/cpsilva/Account/blob/master/Screenshots/Seed.png)
 
 ## Execução do Projeto:
 
